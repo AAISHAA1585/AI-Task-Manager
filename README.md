@@ -33,15 +33,6 @@ This project processes natural task descriptions and intelligently predicts:
 
 ---
 
-## 📸 Screenshots
-
-| Task Table | Sentiment Chart | Priority Chart |
-|------------|------------------|----------------|
-| ![Tasks]("C:\Users\aishw\OneDrive\Pictures\Screenshots\screenshotspie.png") | ![Pie](screenshotspie.png) | ![Bar](screenshots/bar.png) |
-
-📌 Add your own screenshots from the notebook outputs
-
----
 
 ## 💬 Sample Questions You Can Ask
 
