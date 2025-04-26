@@ -37,7 +37,7 @@ This project processes natural task descriptions and intelligently predicts:
 
 | Task Table | Sentiment Chart | Priority Chart |
 |------------|------------------|----------------|
-| ![Tasks](screenshots/table.png) | ![Pie](screenshots/pie.png) | ![Bar](screenshots/bar.png) |
+| ![Tasks](screenshots.png) | ![Pie](screenshotspie.png) | ![Bar](screenshots/bar.png) |
 
 📌 Add your own screenshots from the notebook outputs
 
